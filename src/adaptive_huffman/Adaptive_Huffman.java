@@ -17,7 +17,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author ta7a
+ * @author Mohamed Ashraf badawy Moussa
  */
 public class Adaptive_Huffman {
 

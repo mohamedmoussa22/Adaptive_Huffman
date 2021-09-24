@@ -7,7 +7,7 @@ package adaptive_huffman;
 
 /**
  *
- * @author ta7a
+ * @author Mohamed Ashraf badawy Moussa
  */
 public class Node
 {
